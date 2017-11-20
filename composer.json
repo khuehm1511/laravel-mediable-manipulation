@@ -1,5 +1,5 @@
 {
-    "name": "manipulate-files",
+    "name": "helilabs/laravel-mediable-manipulation",
     "description": "A Laravel Mediable Extension that enables of files manipulation",
     "keywords": ["mediable","laravel-mediable","manipulation"],
     "license": "MIT",
