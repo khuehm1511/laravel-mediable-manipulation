@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "plank/laravel-mediable": "^2.5",
+        "plank/laravel-mediable": "^4.4",
         "intervention/image" : "^2.4"
     },
     "require-dev": {
